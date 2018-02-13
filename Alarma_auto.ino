@@ -1,4 +1,4 @@
-#include <RCSwitch.h>
+#include <RCSwitch.h> // Librería modulos RF
 
 RCSwitch mySwitch = RCSwitch();
 long int contador = 0;
